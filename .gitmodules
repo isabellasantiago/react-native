@@ -1,3 +1,6 @@
 [submodule "introducao"]
 	path = introducao
 	url = https://github.com/isabellasantiago/introducao.git
+[submodule "gerenciador-de-lembrete"]
+	path = gerenciador-de-lembrete
+	url = https://github.com/isabellasantiago/gerenciador-de-lembrete.git
