@@ -4,3 +4,6 @@
 [submodule "gerenciador-de-lembrete"]
 	path = gerenciador-de-lembrete
 	url = https://github.com/isabellasantiago/gerenciador-de-lembrete.git
+[submodule "chatgpt_analise_sentimentos"]
+	path = chatgpt_analise_sentimentos
+	url = https://github.com/isabellasantiago/chatgpt_analise_sentimentos.git
